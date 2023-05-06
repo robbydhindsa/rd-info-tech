@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+
+  .left-navbar {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .logo {
+    width: 40px;
+  }
+}
