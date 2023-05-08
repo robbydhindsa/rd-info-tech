@@ -1,5 +1,6 @@
 .container {
   display: flex;
+  justify-content: space-between;
 
   .left-navbar {
     display: flex;
@@ -8,5 +9,9 @@
 
   .logo {
     width: 40px;
+  }
+
+  .right-navbar {
+    display: flex;
   }
 }
