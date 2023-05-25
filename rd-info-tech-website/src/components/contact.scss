@@ -1,0 +1,12 @@
+.contact-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+  margin: auto;
+
+  .contact-logo {
+    width: 100%;
+    height: auto;
+  }
+}
