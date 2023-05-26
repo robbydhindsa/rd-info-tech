@@ -8,6 +8,7 @@ const Home = () => {
       <img
         className='homepage-logo'
         src={require('../images/sample-logo.png')}
+        // src={require('../images/sample-logo-white-blackborder.png')}
         alt=''
       />
       <h1>RD Info Tech Consulting</h1>
